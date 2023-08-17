@@ -42,7 +42,7 @@ This script automates the process of creating a Proxmox LXC container by interac
 - Image name (e.g., ubuntu-22.04-standard_22.04-1_amd64.tar.zst)
 - The script will interact with the Proxmox API to create the LXC container based on the provided parameters.
 
-##Important Notes
+## Important Notes
 - Ensure that your Proxmox server is reachable and accessible from the machine running this script.
 - Make sure to provide accurate and valid parameters when prompted.
 - The script uses the Proxmox API to create the LXC container, so make sure you have the necessary permissions and the API token is correctly configured.
